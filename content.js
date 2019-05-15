@@ -13,10 +13,10 @@ function gotMessage(message, sender, sendresponse)  {
   //replace background color of paragraphs
   // elt.style['background-color']='#FF00FF';
   //replace text
-  elt.innerText = "puppies are cute!";
+  elt.innerText = "YOU HAVE BEEN HACKED!";
   }
   for(let imgElt of imgs){
-    let file = "puppy.jpg"
+    let file = "hacked.jpg"
     let url = chrome.extension.getURL(file);
     imgElt.src = url;
     console.log(url);
