@@ -1,7 +1,8 @@
 {
 
 "manifest_version": 2,
-"name": "Rad's Extension",
+"name": "April Fools Hacker",
+"description": "Prank your friends by downloading this extension on their laptop and clicking it. It will replace text with 'you have been hacked' and replaced images with a hacked photo",
 "version": "0.1",
 "web_accessible_resources": [
   "*.jpg"
